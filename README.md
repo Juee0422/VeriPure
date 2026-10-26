@@ -5,19 +5,6 @@
 
 ---
 
-## 🎨 Visual Aesthetics & Design System: *"Bright, Airy, & Precision Glass"*
-
-- **Palette**:
-  - **Background**: Warm off-white (`#FBFBFB`), subtle cream tinting (`#F4F6F4`) with pale pastel accents.
-  - **Sage / Emerald** (Authentic & Healthy): `#2E7D32` and `#E8F5E9` (light sage overlay)
-  - **Amber / Coral** (Suspicious / Moderate): `#EF6C00` and `#FFF3E0`
-  - **Crimson / Rose** (Fake / High Risk): `#C62828` and `#FFEBEE`
-  - **Deep Navy** (Contrast & Text): `#1A237E` and `#0A192F`
-- **Micro-Glassmorphism**: Translucent panels (`backdrop-filter: blur(14px)`), subtle borders (`rgba(226, 232, 240, 0.7)`), soft rounded corners (`border-radius: 16px / 24px`), and elevated drop shadows (`0 8px 30px rgba(0,0,0,0.04)`).
-- **Audio Feedback**: Synthesized Web Audio API sound effects for scanning chirps, harmonic success chords, and counterfeit alert klaxons.
-
----
-
 ## 🚀 Key Pages & Architecture
 
 ### 1. Landing Page (`/`)
@@ -93,6 +80,18 @@
 
 ---
 
+## 🎨 Visual Aesthetics & Design System: *"Bright, Airy, & Precision Glass"*
+
+- **Palette**:
+  - **Background**: Warm off-white (`#FBFBFB`), subtle cream tinting (`#F4F6F4`) with pale pastel accents.
+  - **Sage / Emerald** (Authentic & Healthy): `#2E7D32` and `#E8F5E9` (light sage overlay)
+  - **Amber / Coral** (Suspicious / Moderate): `#EF6C00` and `#FFF3E0`
+  - **Crimson / Rose** (Fake / High Risk): `#C62828` and `#FFEBEE`
+  - **Deep Navy** (Contrast & Text): `#1A237E` and `#0A192F`
+- **Micro-Glassmorphism**: Translucent panels (`backdrop-filter: blur(14px)`), subtle borders (`rgba(226, 232, 240, 0.7)`), soft rounded corners (`border-radius: 16px / 24px`), and elevated drop shadows (`0 8px 30px rgba(0,0,0,0.04)`).
+- **Audio Feedback**: Synthesized Web Audio API sound effects for scanning chirps, harmonic success chords, and counterfeit alert klaxons.
+
+---
 ## 🏃 Running the Application
 
 ```bash
